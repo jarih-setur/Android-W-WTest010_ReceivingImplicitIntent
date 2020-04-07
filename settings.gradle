@@ -1,0 +1,2 @@
+rootProject.name='WTest010_ReceivingImplicitIntent'
+include ':app'
